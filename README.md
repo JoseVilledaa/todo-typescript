@@ -1,27 +1,14 @@
-# React + TypeScript + Vite
+# "📝 Proyecto de Lista de Tareas (TODO's) en TypeScript y React 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## Características destacadas:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Desarrollado en TypeScript y React para garantizar un código sólido y mantenible.
 
-## Expanding the ESLint configuration
+- Agrega nuevas tareas rápidamente y observa cómo se actualiza la lista en tiempo real.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+- Marca las tareas como completadas para un seguimiento efectivo de tu progreso.
 
-- Configure the top-level `parserOptions` property like this:
+- Elimina tareas que ya no necesitas y mantén tu lista limpia y organizada.
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+- Interfaz de usuario receptiva y atractiva para una experiencia de usuario fluida en cualquier dispositivo.
